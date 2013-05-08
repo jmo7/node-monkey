@@ -10,7 +10,7 @@
     "main": "./index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/jwarkentin/node-monkey.git"
+        "url": "https://github.com/jmo7/node-monkey.git"
     },
     "dependencies": {
         "underscore": "*",
